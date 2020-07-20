@@ -20,5 +20,6 @@ No credit card needed!
 * Available in many regions across the globe.
 * Highly Secure, for 2021 and beyond
 * Elastic Scalability optimizated for graph, document and search.
+* Fully scriptable [API](https://github.com/arangodb-managed/apis)
 
 [Try for free today!](https://cloud.arangodb.com)
