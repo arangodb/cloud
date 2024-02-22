@@ -1,25 +1,33 @@
 # The ArangoDB Cloud
 
-![ArangoDB Oasis](https://cloud.arangodb.com/assets/logos/arangodb-oasis-logo-whitebg-right.png)
+![ArangoGraph](./resources/arangograph.jpeg)
 
-ArangoDB Oasis is the easiest way to run ArangoDB.
+The ArangoGraph Platform is the easiest way to run ArangoDB in the cloud.
 
-Oasis is built, monitored and managed by the cloud specialists of ArangoDB.
-Oasis lets you easily scale from small deployments to very large
-deployments spanning dozens of nodes at any time.
+**Getting started**
 
-## Getting started
+Take ArangoGraph for a free 14-day test ride on [cloud.arangodb.com](https://cloud.arangodb.com). No credit card required.
 
-Sign up for ArangoDB Oasis on [cloud.arangodb.com](https://cloud.arangodb.com) and getting started with your 14-day free trial today.
+**FAQ**
 
-No credit card needed!
+View the [FAQ](https://dashboard.arangodb.cloud/faq) for answers to common questions about ArangoGraph.
 
-## Key features
+**Fully Managed & Supported**
 
-* Available on AWS, Google Cloud & Azure.
-* Available in many regions across the globe.
-* Highly Secure, for 2021 and beyond
-* Elastic Scalability optimizated for graph, document and search.
-* Fully scriptable [API](https://github.com/arangodb-managed/apis)
+Experience the power and fractional TCO of a fully-managed cloud database, providing seamless native support for multiple data models, including graph, document, search, and key-value. Unleash the potential of diverse data in a single, fully-managed database deployment. Choose from a variety of support plans to meet your needs.
 
-[Try for free today!](https://cloud.arangodb.com)
+**Run Anywhere**
+
+Ensure that your graph data is available with minimal effort by your operations team. Featuring Multi-availability Zone Clusters, Managed Zero-downtime Upgrades, Managed Backups, One-Click Disaster Recovery, Monitoring & Alerting and Managed Log Management.
+
+**Highly Secure**
+
+Encryption at transit & at rest guarantee all your data is encrypted before it hits the disk or sent over the network. In addition, you can assign fine-grained role-based access control (RBAC) policies to your organization, your projects or deployments. This assigns permissions to groups or individual users.
+
+**Elastic Scale & Multi-Tenancy**
+
+Elastically scale with all deployment models (OneShard & Sharded Clusters) and use the special ArangoDB Enterprise features for efficient queries on distributed data. Avoid costly vertical scaling of competing solutions and rely on ArangoGraph’s seamless horizontal scaling.
+
+**High Availability**
+
+Ensure that your graph data is available with minimal effort by your operations team. Featuring Multi-availability Zone Clusters, Managed Zero-downtime Upgrades, Managed Backups, One-Click Disaster Recovery, Monitoring & Alerting and Managed Log Management.
