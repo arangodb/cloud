@@ -6,7 +6,7 @@ The ArangoGraph Platform is the easiest way to run ArangoDB in the cloud.
 
 **Getting started**
 
-Take ArangoGraph for a free 14-day test ride on [cloud.arangodb.com](https://cloud.arangodb.com). No credit card required.
+Take ArangoGraph for a free 14-day test ride on [dashboard.arangodb.cloud](https://dashboard.arangodb.cloud/home). No credit card required.
 
 **FAQ**
 
